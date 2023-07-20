@@ -1,10 +1,10 @@
 # project_native_prototype
-The main view of navtive prototype of application called "NutriBot", which follows the responsive design principles. It is a part of project where my group designed an UI following human-centric design principles for implementation of "Automated garden balcony". 
+The main view of native prototype of an application called "NutriBot", which follows the responsive design principles. It is part of a project where my group designed a UI following human-centric design principles for the implementation of an "Automated garden balcony". 
 
 NOTE! The code can be run also in DartPad, but the logo in the first "button" of the view won't be visible, since all Widgets it uses are not supported in DartPad.
 
 
-If you want to know more of the background of this subject, here is short problem definition for the project that it was created:
+If you want to know more about the background of this subject, here is a short problem definition for the project that was created:
 
 Problem definition 
 
