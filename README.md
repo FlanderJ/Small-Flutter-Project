@@ -1,8 +1,8 @@
 # project_native_prototype
 The main view of native prototype of an application called "NutriBot", which follows the responsive design principles. It is part of a project where my group designed a UI following human-centric design principles for the implementation of an "Automated garden balcony". 
 
-NOTE! The code can be run also in DartPad, but the logo in the first "button" of the view won't be visible, since all Widgets it uses are not supported in DartPad.
-
+NOTE! The code can also be run in DartPad, but the logo in the first "button" of the view won't be visible, since all Widgets it uses are not supported in DartPad.
+NOTE! I'm a very beginner with Dart and Flutter framework. I was responsible for this prototype on the project.
 
 If you want to know more about the background of this subject, here is a short problem definition for the project that was created:
 
