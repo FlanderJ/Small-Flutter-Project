@@ -3,6 +3,7 @@ The main view of native prototype of an application called "NutriBot", which fol
 
 NOTE! The code can also be run in DartPad, but the logo in the first "button" of the view won't be visible, since all Widgets it uses are not supported in DartPad.
 NOTE! I'm a very beginner with Dart and Flutter framework. I was responsible for this prototype on the project.
+NOTE! There are no other views in this project since they were not required.
 
 If you want to know more about the background of this subject, here is a short problem definition for the project that was created:
 
